@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-the-silk-blanket/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Under The Silk Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-silk-blanket/) |
+| **Get License** | [Get a Licensing Quote for Under The Silk Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-silk-blanket/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your skin meets mine
+> We leave the shadows of the world behind
+> Your breath is heavy like a midnight breeze
+> You got me falling right upon my knees
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
