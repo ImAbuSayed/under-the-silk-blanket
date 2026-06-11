@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-the-silk-blanket/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Under The Silk Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-silk-blanket/) |
+| **Get License** | [Commercial Licensing for Under The Silk Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-the-silk-blanket/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a4ab234946a6eeccdb61c53ed0d8e189dc85ce565605a5d839ca4034600170e8` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
